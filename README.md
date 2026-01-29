@@ -1,4 +1,4 @@
-👋 Hi, I’m Diya! I’m interested in all things machine learning, app dev, and making tech to help the environment. Looking to collaborate on any project that mixes ML, sustainability, and maybe a dash of creativity! Fun fact: I once built a makeshift water filter out of a coffee can—didn’t go as planned, but hey, innovation starts somewhere!
+hi im dee! I’m interested in all things machine learning, app dev, and making tech to help the environment. Looking to collaborate on any project that mixes ML, sustainability, and maybe a dash of creativity! Fun fact: I once built a makeshift water filter out of a coffee can—didn’t go as planned, but hey, innovation starts somewhere!
 
 <!---
 deebee08/deebee08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
